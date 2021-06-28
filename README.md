@@ -4,7 +4,7 @@
 > >
 > > 
 >
- ![](https://github.com/SporoZoite/markdown-challenge/lisa.png)
+ ![mypixelface](https://github.com/SporoZoite/markdown-challenge/lisa.png)
 >
 > ### "Me, in one sentence" 
 >
