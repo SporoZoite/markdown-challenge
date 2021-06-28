@@ -4,7 +4,7 @@
 > >
 > > 
 >
-> ![](/Users/user/markdown-challenge/lisa.png)
+ ![](/markdown-challenge/lisa.png)
 >
 > ### "Me, in one sentence" 
 >
