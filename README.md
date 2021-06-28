@@ -84,6 +84,6 @@
 >
 > 
 >
-> [<< previous](https://github.com/LaurentBrajkovic/Markdown-challenge) || Lisa van Hooydonk || [next >>](https://github.com/Lucaslelli/Markdown-Challenge)
+> [<< previous](https://github.com/LaurentBrajkovic/Markdown-challenge) || Lisa van Hooydonk || [next >>](https://github.com/Lucaslelli/Markdown-Challenge.git)
 
 ## 
